@@ -1,0 +1,2 @@
+class Frined < ApplicationRecord
+end
